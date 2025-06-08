@@ -1,4 +1,4 @@
-# Proyecto ESP32 con RFID mediante Reconocimiento Facial
+# Proyecto Cerradura mediante Reconocimiento Facial con ESP32 y RFID 
 
 Este sistema permite controlar el acceso mediante un lector RFID y verificación facial usando ESP32, ESP32-CAM y un servidor Flask con OpenCV.
 
