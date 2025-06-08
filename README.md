@@ -6,7 +6,7 @@ Este sistema permite controlar el acceso mediante un lector RFID y verificación
 - ESP32 + MicroPython
 - Lector RFID RC522
 - ESP32-CAM
-- Servidor Flask en PC o Raspberry Pi
+- Servidor Flask en PC
 - Módulo relé o servo
 
 ## Flujo
@@ -17,5 +17,5 @@ Este sistema permite controlar el acceso mediante un lector RFID y verificación
 
 ## Instalación
 - En ESP32 usar Thonny para subir main.py y mfrc522.py
-- En ESP32-CAM usar Arduino IDE para subir esp32cam_upload.ino
+- En ESP32-CAM usar Arduino IDE para subir esp32cam_upload.ino y mande la foto al servidor
 - En tu PC: instalar Flask, OpenCV y ejecutar server.py
